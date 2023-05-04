@@ -103,6 +103,12 @@ a {
   text-decoration: none;
 }
 
+.flex-ctr-centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 main {
   flex-grow: 1;
   
