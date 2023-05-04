@@ -1,0 +1,22 @@
+.homeMain {
+    padding: 2rem 10rem 2rem 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.pageSection {
+    /* margin-bottom: 2rem; */
+    /* text-align: center; */
+}
+
+.pageSection > h2 {
+    text-align: center;
+}
+
+.projectWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
