@@ -1,0 +1,24 @@
+.nav {
+    display: flex;
+    height: 3.125rem;
+    background-color: midnightblue;
+    color: ivory;
+    padding-right: 1rem;
+    align-items: center;
+    justify-content: flex-end;
+}
+/* styles all the a tags in the nav bar */
+.nav > a {
+    text-decoration: none;
+    color: inherit;
+    /* add hover effect */
+
+   
+    font-size: 1.5rem;
+
+}
+
+.nav > a:hover {
+    
+    text-decoration: underline;
+}
